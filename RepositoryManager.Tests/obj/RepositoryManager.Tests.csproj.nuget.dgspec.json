@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager.Tests/RepositoryManager.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager.Tests/RepositoryManager.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager.Tests/RepositoryManager.Tests.csproj",
+        "projectName": "RepositoryManager.Tests",
+        "projectPath": "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager.Tests/RepositoryManager.Tests.csproj",
+        "packagesPath": "/home/derkaiser/.nuget/packages/",
+        "outputPath": "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/derkaiser/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/RepositoryManager.csproj": {
+                "projectPath": "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/RepositoryManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.118/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/RepositoryManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/RepositoryManager.csproj",
+        "projectName": "RepositoryManager",
+        "projectPath": "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/RepositoryManager.csproj",
+        "packagesPath": "/home/derkaiser/.nuget/packages/",
+        "outputPath": "/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/derkaiser/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.118/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

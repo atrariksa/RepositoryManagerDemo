@@ -1,0 +1,12 @@
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/Debug/net6.0/RepositoryManager.csproj.AssemblyReference.cache
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/Debug/net6.0/RepositoryManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/Debug/net6.0/RepositoryManager.AssemblyInfoInputs.cache
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/Debug/net6.0/RepositoryManager.AssemblyInfo.cs
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/Debug/net6.0/RepositoryManager.csproj.CoreCompileInputs.cache
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/bin/Debug/net6.0/RepositoryManager.deps.json
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/bin/Debug/net6.0/RepositoryManager.dll
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/bin/Debug/net6.0/ref/RepositoryManager.dll
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/bin/Debug/net6.0/RepositoryManager.pdb
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/Debug/net6.0/RepositoryManager.dll
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/Debug/net6.0/ref/RepositoryManager.dll
+/home/derkaiser/Desktop/projects/CIS/RepositoryManagerDemo/RepositoryManager/obj/Debug/net6.0/RepositoryManager.pdb
